@@ -4,22 +4,21 @@
 <p align="center">
  <img src="./assets/01.png"  height="300" alt="app">
 
-It is _easy_ to use. Just choose a city and press _enter_
+It is **_easy_** to use. Just choose a city and press **_enter_**.
 
 <p align="center">
  <img src="./assets/02.png"  height="300" alt="app">
 
-### Built With
+### Built With:
 
 This App was built with OpenWeather API. 
 
-<p align="center">
 <a href="https://github.com/" title="GitHub"><img height="50" src="assets/openweather-logo.png" /></a>
 
-## Tools
+## Tools:
 
 JavaScript, CSS, WebPack, Babel
 
-## Contact
+## Contact:
 
 Project Link: [https://katerynalutska.github.io/Weather-App/](https://katerynalutska.github.io/Weather-App/)
